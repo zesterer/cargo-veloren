@@ -1,0 +1,9 @@
+[package]
+name = "cargo-veloren"
+version = "0.0.0"
+description = "A cargo subcommand for Veloren"
+authors = ["Joshua Barretto <joshua.s.barretto@gmail.com>"]
+edition = "2018"
+license = "GPL-3.0"
+
+[dependencies]
